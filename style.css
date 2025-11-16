@@ -1,0 +1,178 @@
+.header{
+	text-align: center;
+	padding: 20px;
+}
+.header a{
+	color: black;
+	text-decoration: none;
+    width: 200px;
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+.header a:hover{
+	background-color: #ccc;
+	border-radius: 10px;
+}
+.intro{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 200px;
+	background-image: url(image/i.webp);
+	background-position: top center;
+	line-height: 50px;
+}
+.intro a{
+	color: black;
+	text-decoration: none;
+	border: 5px solid white;
+	border-radius: 10px;
+	background-color: white;
+	padding: 10px;
+}
+
+.about img{
+	float: right;
+	width: 250px;
+	margin: 30px;
+	margin-top: 0px;
+}
+.about{
+	width: 1200px;
+	margin: 100px auto;
+}
+.about h1{
+	text-align: center;
+}
+
+#team{
+	margin-top: 200px;
+	text-align: center;
+}
+
+
+.member{
+	display: inline-block;
+	width: 20%;
+	margin: 20px 10px;
+	border: 2px solid grey;
+	box-shadow: 0px 2px 5px gray;
+	padding:20px;
+	text-align: left;
+
+}
+.member img{
+	width: 100%;
+	height: 20%;
+}
+
+.pasition{
+	opacity: 0.6;
+}
+.member a{
+	background-color: #116062;
+	color: white;
+	display: inline-block;
+	text-decoration: none;
+	padding:10px 0px ;
+	width: 100%;
+	text-align: center;
+	border-radius: 8px;
+}
+#prices{
+	background-color: gray;
+	text-align: center;
+	padding: 30px;
+	color: white;
+}
+.tarif{
+	display: inline-block;
+	color: black;
+	list-style-type: none;
+	width: 25%;
+	background-color: white;
+	padding: 0px;
+	vertical-align: middle;
+}
+.tarif li{
+	padding: 16px 0px;
+	border-bottom: 1px solid #dddddd;
+}
+.tarif .beast{
+     background-color: #055b73;
+     color: white;
+     padding: 48px 0px;
+}
+.tarif .tarif-name{
+	background-color: black;
+	color: white;
+	padding: 30px 0px;
+}
+
+li a{
+	background-color: black;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+.price{
+	font-weight: bold;
+	font-size: 20px;
+}
+.period{ 
+	opacity: 0.6;
+}
+.tarif li:last-child{
+	background-color: #f1f1f1;
+}
+
+.tarif a:hover{
+	background-color: gray;
+}
+#contact{
+	text-align: center;
+	padding: 30px;
+	background-color: #f1f1f1;
+}
+.info{
+	text-align: left;
+	padding-left: 30px;
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-size: 18px 18px;
+}
+#contact input{
+	width: 100%;
+	margin-bottom: 15px;
+	height: 30px;
+}
+.job{
+	apacity: 0.7;
+}
+.packages{
+	margin-top: 40px;
+}
+.tarif{
+	display: inline-block;
+	width: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
